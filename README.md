@@ -12,5 +12,7 @@
 ### Title: FitFriend
 
 #### Description
+FitFriend is a mobile app that users use 
+
 
 
