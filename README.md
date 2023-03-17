@@ -1,4 +1,3 @@
-# MobileAppDev
 ## Section 2 
 
 | Full Name | ID |
@@ -9,4 +8,9 @@
 | Mathias Wakgari | UGR/6827/13 |   
 | Melakeselam Yitbarek | UGR/0064/13 |  
 
-## Title: FitFriend
+
+### Title: FitFriend
+
+#### Description
+
+
