@@ -23,10 +23,11 @@ BudgetBoss is a is a mobile application designed to help individuals and busines
 Using the app, you can set up personalized spending categories that allows to set budgets under that category and track your spending patterns over time. The app also provides helpful insights and reports, helping you make informed decisions about where to cut back and where to invest more.
 It will have two roles- user and admin
 
-user- 
-1. can setup(create) spending categories
-can delete spending categories
-can update spending categories
+USER 
+                                             Spending Categories
+can setup(create) spending categories, 
+can delete spending categories, 
+can update spending categories,
 can get spending categories
 2. under a spending category user can setup(create) buddget
 under a spending category user can delete buddget
