@@ -24,23 +24,11 @@ Using the app, you can set up personalized spending categories that allows to se
 It will have two roles- user and admin
 
 USER 
-                                             Spending Categories
-can setup(create) spending categories, 
-can delete spending categories, 
-can update spending categories,
-can get spending categories
-2. under a spending category user can setup(create) buddget
-under a spending category user can delete buddget
-under a spending category user can update buddget
-under a spending category user can get buddget
-3. under a spending category user can setup(create) expense
-under a spending category user can delete expense
-under a spending category user can update expense
-under a spending category user can get expense
-4. can enter their monthly income(salary)
-can update their income
-can delete their income
-can get their income 
+
+1. can setup(create) spending categories, can delete spending categories, can update spending categories, can get spending categories.
+2. under a spending category user can setup(create) buddget, under a spending category user can delete buddget, under a spending category user can ,update buddget, under a spending category user can get buddget
+3. under a spending category user can setup(create) expense, under a spending category user can delete expense, under a spending category user can, update expense, under a spending category user can get expense
+4. can enter their monthly income(salary), can update their income, can delete their income, can get their income 
          
 The term "spending category" refers to a specific type or classification of expenses incurred by a user. Examples of spending categories include housing, transportation, food and dining, entertainment, healthcare, and utilities.  
       
