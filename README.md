@@ -37,7 +37,6 @@ Overall, BudgetBoss is a powerful tool for anyone looking to take control of the
 
 
 
-## In this repository the Front-End/Flutter is in the Flutter folder where as the Back-End is in the Django folder. The folder android and the file analysis_options.yaml are incorrect commit 
 
 
 
