@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'package:project_app/auth/bloc/auth_state.dart';
 import 'package:project_app/auth/data_provider/auth_provider.dart';
 import 'package:project_app/auth/models/model.dart';
 import 'package:project_app/sqlDB.dart';
@@ -16,6 +15,7 @@ class AuthRepository {
     }
 
     Map<String, dynamic> jsonMap = json.decode(response.body);
+
     LoginModel res = LoginModel.fromJson(jsonMap);
 
     return res;

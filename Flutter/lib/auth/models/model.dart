@@ -3,6 +3,7 @@ class LoginModel {
   LoginModel(this.token);
 
   factory LoginModel.fromJson(Map<String, dynamic> json) {
+    print(json["access"]);
     return LoginModel(json["access"]);
   }
 }

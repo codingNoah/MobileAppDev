@@ -1,8 +1,8 @@
-# Install script for directory: /home/yenoh/Desktop/project_app/linux/flutter
+# Install script for directory: /home/yenoh/Desktop/github/MobileAppDev/Flutter/linux/flutter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/yenoh/Desktop/project_app/build/linux/x64/debug/bundle")
+  set(CMAKE_INSTALL_PREFIX "/home/yenoh/Desktop/github/MobileAppDev/Flutter/build/linux/x64/debug/bundle")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

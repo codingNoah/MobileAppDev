@@ -24,6 +24,7 @@ class AuthBloc extends Bloc<AuthEvent, AuthState> {
       emit(LogInLoading());
       LoginModel response =
           await authRepository.loginUser(event.username, event.password);
+
       await insertToken(response.token);
       emit(LoginOperationSuccess(response.token));
     } catch (error) {
